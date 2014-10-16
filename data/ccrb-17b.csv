@@ -1,0 +1,20 @@
+type_of_encounter, 2009_number, 2009_percent, 2010_number, 2010_percent, 2011_number, 2011_percent, 2012_number, 2012_percent, 2013_number, 2013_percent
+No arrest made or summons issued ,3554 ,46.4 ,2965 ,45.9 ,2761 ,46.3 ,2699 ,47.0 ,2371 ,43.8
+Summons - Parking ,127 ,1.7 ,75 ,1.2 ,79 ,1.3 ,66 ,1.1 ,84 ,1.6
+Summons - Moving violation ,196 ,2.6 ,150 ,2.3 ,140 ,2.3 ,156 ,2.7 ,128 ,2.4
+Summons - Other VTL violation ,101 ,1.3 ,140 ,2.2 ,121 ,2.0 ,139 ,2.4 ,112 ,2.1
+Summons - Disorderly conduct ,407 ,5.3 ,392 ,6.1 ,284 ,4.8 ,207 ,3.6 ,177 ,3.3
+Summons - Harrasment ,2 ,0.0 ,0 ,0.0 ,0 ,0.0 ,0 ,0.0 ,1 ,0.0
+Summons - OGA ,1 ,0.0 ,0 ,0.0 ,1 ,0.0 ,2 ,0.0 ,1 ,0.0
+Summons - Other violation/crime ,488 ,6.4 ,408 ,6.3 ,373 ,6.2 ,297 ,5.2 ,256 ,4.7
+Arrest - Disorderly conduct ,234 ,3.1 ,163 ,2.5 ,152 ,2.5 ,125 ,2.2 ,84 ,1.6
+Arrest - Harrassment (against a PO) ,1 ,0.0 ,3 ,0.0 ,5 ,0.1 ,4 ,0.1 ,2 ,0.0
+Arrest - OGA ,124 ,1.6 ,126 ,1.9 ,141 ,2.4 ,123 ,2.1 ,96 ,1.8
+Arrest - Resisting arrest ,266 ,3.5 ,178 ,2.8 ,175 ,2.9 ,168 ,2.9 ,178 ,3.3
+Arrest - Assault (against a PO) ,113 ,1.5 ,97 ,1.5 ,73 ,1.2 ,85 ,1.5 ,90 ,1.7
+Arrest - Other violation/crime ,2012 ,26.3 ,1744 ,27.0 ,1641 ,27.5 ,1627 ,28.3 ,1795 ,33.2
+Juvenile Report ,8 ,0.1 ,14 ,0.2 ,9 ,0.2 ,7 ,0.1 ,8 ,0.1
+Data unavailable or unknown ,26 ,0.3 ,11 ,0.2 ,14 ,0.2 ,36 ,0.6 ,27 ,0.5
+Total ,7660 ,100.0 ,6466 ,100.0 ,5969 ,100.0 ,5741 ,100.0 ,5410 ,100.0
+Total - Arrest ,2750 ,35.9 ,2311 ,35.7 ,2187 ,36.6 ,2132 ,37.1 ,2245 ,41.5
+Total - Summons ,1322 ,17.3 ,1165 ,18.0 ,998 ,16.7 ,867 ,15.1 ,759 ,14.0
